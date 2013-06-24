@@ -1,0 +1,4 @@
+#!/bin/bash
+
+git reset --hard
+touch id.h  parse.c  id.c  newline.c
